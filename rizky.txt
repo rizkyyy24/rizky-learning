@@ -3,3 +3,4 @@ belajar css
 belajar js
 belajar react
 belajar buat game
+membuat vlog
